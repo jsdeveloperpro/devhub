@@ -96,7 +96,7 @@
     "@types/mkdirp": "1.0.1",
     "@types/semver": "7.3.4",
     "dotenv": "8.2.0",
-    "electron": "11.0.3",
+    "electron": "15.5.5",
     "electron-builder": "22.9.1",
     "electron-devtools-installer": "3.1.1",
     "electron-notarize": "1.0.0",
